@@ -1,0 +1,2 @@
+what is bind with functions
+how can I make variable equal variable by just value

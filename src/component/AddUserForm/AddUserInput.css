@@ -1,0 +1,10 @@
+.add-user-input__label{
+    display: block;
+    font-weight: 700;
+    margin-bottom:5px;
+    font-size: 0.9rem;
+}
+.add-user-input__input{
+    display: block;
+    width:100%;
+}
