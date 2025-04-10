@@ -1,0 +1,29 @@
+.comments {
+    width: 35em;
+    margin: auto;
+}
+
+.inf {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-weight: bold;
+}
+
+.inf p {
+    margin: 0;
+}
+
+.comments ul {
+    padding: 0;
+    list-style: none;
+}
+
+.no-elemnt {
+    text-align: center;
+    color: white;
+}
+
+.error p {
+    color: red;
+}

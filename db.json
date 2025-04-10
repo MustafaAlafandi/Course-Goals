@@ -1,0 +1,19 @@
+{
+  "feedbacks": [
+    {
+      "id": "c4c04686-beea-4f5b-9dfa-6682364a8ac6",
+      "text": "this application isn't good ",
+      "rating": 3
+    },
+    {
+      "id": "fe962123-2923-4387-87d0-62839fda361f",
+      "text": "this application is really good ",
+      "rating": 10
+    },
+    {
+      "id": "36ecb41c-f786-4b9f-a57c-ca392803d19d",
+      "text": "the application is very good",
+      "rating": 9
+    }
+  ]
+}
