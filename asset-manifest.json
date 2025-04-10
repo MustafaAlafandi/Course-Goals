@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-Small-Template-1/static/css/main.4356823f.css",
-    "main.js": "/React-Small-Template-1/static/js/main.14b6c17d.js",
-    "static/media/meals.jpg": "/React-Small-Template-1/static/media/meals.2971f633fc1382581cbf.jpg",
+    "main.css": "/React-Small-Template-1/static/css/main.9737c0a4.css",
+    "main.js": "/React-Small-Template-1/static/js/main.735fb3ff.js",
+    "static/media/spinning loading.gif": "/React-Small-Template-1/static/media/spinning loading.33ac7fe00c1e1fe32abb.gif",
     "index.html": "/React-Small-Template-1/index.html",
-    "main.4356823f.css.map": "/React-Small-Template-1/static/css/main.4356823f.css.map",
-    "main.14b6c17d.js.map": "/React-Small-Template-1/static/js/main.14b6c17d.js.map"
+    "main.9737c0a4.css.map": "/React-Small-Template-1/static/css/main.9737c0a4.css.map",
+    "main.735fb3ff.js.map": "/React-Small-Template-1/static/js/main.735fb3ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.4356823f.css",
-    "static/js/main.14b6c17d.js"
+    "static/css/main.9737c0a4.css",
+    "static/js/main.735fb3ff.js"
   ]
 }
